@@ -7,4 +7,3 @@
 # Desafio 01 do módulo 01: Fundamentos do Elixir - Resolvido ;)
 
 ![image](https://user-images.githubusercontent.com/69761459/144122513-981c73cb-0f50-432c-b55d-5dca711c6606.png)
-
